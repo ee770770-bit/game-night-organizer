@@ -1,0 +1,21 @@
+# Python bytecode (מטמון של פייתון)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments (סביבות וירטואליות - חובה להתעלם מהן)
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs and editors (הגדרות של עורכי קוד כמו VSCode ו-PyCharm)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files (קבצי מערכת הפעלה)
+.DS_Store
+Thumbs.db
